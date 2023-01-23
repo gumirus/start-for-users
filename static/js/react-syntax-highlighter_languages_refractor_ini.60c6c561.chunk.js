@@ -1,2 +1,0 @@
-(this["webpackJsonpdata-structures"]=this["webpackJsonpdata-structures"]||[]).push([[60],{330:function(t,s,a){"use strict";function n(t){t.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}t.exports=n,n.displayName="ini",n.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini.60c6c561.chunk.js.map
